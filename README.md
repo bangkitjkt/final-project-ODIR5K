@@ -5,7 +5,7 @@
 ## File Owner
 1. ODIR_5K.ipynb > **Azhari**
 2. Ocular_Disease_Recognition.ipynb > **Irfani**
-3. Ocular_Model_<version>.ipnyb > **Bima**
+3. Ocular_Model_[version].ipnyb > **Bima**
 
 # Explanation
 ### Ocular Model Version 1 (Bima)
