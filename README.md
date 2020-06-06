@@ -12,17 +12,21 @@
 I used images that have explicit one label on it.
 
 **Train and Validation Data:**
+
 I splitted the data into train and validation data by 80% train and 20% validation
+
 1. ```train_data``` = 4662 images belonging to 8 classes.
 2. ```validation_data``` = 1166 images belonging to 8 classes
 
 **Training parameter:**
+
 1. ```learning_rate = 0.001```
 2. ```optimizer = Adam```
 3. ```epoch = 30```
 4. Training time is +- 4 hours
 
 **Neural Network Configuration**
+
 ```
 model = tf.keras.models.Sequential([
     tf.keras.layers.Conv2D(16, (3,3), activation='relu', input_shape=(150, 150, 3)),
@@ -47,6 +51,7 @@ model = tf.keras.models.Sequential([
 | _<azhari_model>_ | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 
 **Graphic Result**
+
 Accuracy Vs Epochs [BIMA] (hover to see title text):
 ![alt text](img/bima_acc.jpg "Accuracy Vs Epochs")
 
