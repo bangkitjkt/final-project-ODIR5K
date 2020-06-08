@@ -4,7 +4,7 @@
 
 ## File Owner
 1. ODIR\_5K.ipynb > **Azhari**
-2. Ocular\_Disease\_Recognition.ipynb > **Irfani**
+2. Multi\_Label\_Image\_Classification\_ODIR.ipynb.ipynb > **Irfani**
 3. Ocular\_Model\_[version].ipnyb > **Bima**
 
 # Explanation
