@@ -31,7 +31,7 @@ $ ipython
 $ %run choose_one_model.ipynb
 ```
 
-Extract the model into Tensorflow.js files (on your ):
+Extract the model into Tensorflow.js files:
 
 ```bash
 $ ipython
