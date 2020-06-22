@@ -3,3 +3,5 @@
 android/*.apk filter=lfs diff=lfs merge=lfs -text
 android/*.json filter=lfs diff=lfs merge=lfs -text
 android/*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
