@@ -10,7 +10,7 @@ Members:
  - R. Achmad Dadang Nur Hidayanto
 
 # Demo
- - Android App (run the installer from this directory)
+ - Android App (run the installer from this directory) for processor architecture ARM-32bit v7a and ARM-64bit (armv8)
 
 # Slide
 [Presentation](https://docs.google.com/presentation/d/1lZIzMBJ5Iy4O6xXg61bEtknCgW64KHmjypyg8GA2WYU/edit?usp=sharing)
