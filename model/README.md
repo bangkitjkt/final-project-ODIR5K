@@ -1,5 +1,5 @@
-# Final Project - Bangkit JKT-1
-> Google Bangkit final project JKT1-A
+# Final Project - Bangkit JKT-1A
+This directory host the Tensorflow model of Ocular Disease Intelligent Recognition (ODIR) Classification using Tensorflow as a Final Project of [Google Bangkit Machine Learning Academy](https://events.withgoogle.com/bangkit/) by team JKT1-A
 
 
 ## File Owner
