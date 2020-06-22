@@ -1,8 +1,7 @@
-
 # Bangkit-JKT1A
-Final Project from team JKT1-A
+This repository contains the model, and the demonstration of Ocular Disease Intelligent Recognition (ODIR) Classification using Tensorflow as a Final Project of [Google Bangkit Machine Learning Academy](https://events.withgoogle.com/bangkit/) by team JKT1-A
 
-Members:
+Team Members:
 
  - Azhari Haris Al Hamdi
  - Bimantara Hanumpraja
@@ -10,12 +9,19 @@ Members:
  - R. Achmad Dadang Nur Hidayanto
 
 # Demo
-[ODIR-Classification Site](https://odir.simulasikan.com/)
+ - Android App (run the installer from [Android Directory](android))
+ - Web based: [ODIR-Classification Site](https://odir.simulasikan.com/)
 
 # Slide
 [Presentation](https://docs.google.com/presentation/d/1lZIzMBJ5Iy4O6xXg61bEtknCgW64KHmjypyg8GA2WYU/edit?usp=sharing)
 
 # Deployment
+## Android APP
+Android package are available to download from [Android Directory](android)
+
+You can download the installer and run the application.
+
+## Website
 To deploy the site, do the following:
 
 First, clone this repository:

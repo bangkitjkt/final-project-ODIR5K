@@ -1,6 +1,6 @@
 
 # Bangkit-JKT1A
-Repo for [ODIR-Classification Site](https://odir.simulasikan.com/)
+This directory host the [demonstration site](https://odir.simulasikan.com/) of Ocular Disease Intelligent Recognition (ODIR) Classification using Tensorflow as a Final Project of [Google Bangkit Machine Learning Academy](https://events.withgoogle.com/bangkit/) by team JKT1-A
 
 Team:
 
@@ -9,6 +9,9 @@ Team:
  - Irfani Sakinah
  - R. Achmad Dadang Nur Hidayanto
 
+
+# Demo
+ - Web based: [ODIR-Classification Site](https://odir.simulasikan.com/)
 
 # Slide
 [Presentation](https://docs.google.com/presentation/d/1lZIzMBJ5Iy4O6xXg61bEtknCgW64KHmjypyg8GA2WYU/edit?usp=sharing)
