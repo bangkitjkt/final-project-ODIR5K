@@ -1,6 +1,7 @@
 # Final Project - Bangkit JKT-1A
 This directory host the Tensorflow model of Ocular Disease Intelligent Recognition (ODIR) Classification using Tensorflow as a Final Project of [Google Bangkit Machine Learning Academy](https://events.withgoogle.com/bangkit/) by team JKT1-A
 
+For complete project files including model files are available at [Our cloud storage](https://cloud.dadangnh.com/s/jk3Ew8YaSf9jazW).
 
 ## File Owner
 1. ODIR\_5K.ipynb > **Azhari**
