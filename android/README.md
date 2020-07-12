@@ -15,6 +15,9 @@ Members:
 # Slide
 [Presentation](https://docs.google.com/presentation/d/1lZIzMBJ5Iy4O6xXg61bEtknCgW64KHmjypyg8GA2WYU/edit?usp=sharing)
 
+# Repository 
+Complete project files including model files (h5 format, tflite, and js files) are available to download at [Our cloud storage](https://cloud.dadangnh.com/s/jk3Ew8YaSf9jazW).
+
 # Deployment
 ## Android APP
 Android package are available to download from this directory
